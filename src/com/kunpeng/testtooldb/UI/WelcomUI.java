@@ -1,4 +1,4 @@
-package TestToolDB.UI;
+package com.kunpeng.testtooldb.UI;
 
 import com.example.testtooldb.R;
 
